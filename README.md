@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<details>
+  <summary>Technology</summary>
+  <ul>
+    <li>Ruby</li>
+    <li>Rails</li>
+    <li>PostgresSQL</li>
+  </ul>
+</details>
+
 ## Available Scripts
 
 In the project directory, you can run:
