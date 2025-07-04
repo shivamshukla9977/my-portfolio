@@ -21,7 +21,7 @@ export default function Navbar() {
         {/* Right: Avatar + Preview */}
         <div className="relative mt-4 md:mt-0">
           <img
-            src="shivam.jpg"
+            src="./shivam.jpg"
             alt="Avatar"
             className="w-10 h-10 rounded-full border-2 border-white object-cover cursor-pointer"
             onClick={() => setShowPreview(!showPreview)}
@@ -31,7 +31,7 @@ export default function Navbar() {
             <div className="absolute right-0 mt-2 w-48 bg-white rounded-lg shadow-lg p-4 z-20 text-gray-800">
               <h4 className="text-lg font-semibold">Shivam Shukla</h4>
               <p className="text-sm text-gray-600">Full Stack Developer</p>
-              <p className="mt-2 text-xs">Email: shivam@example.com</p>
+              <p className="mt-2 text-xs">Email: shishukla34@gmail.com</p>
               <p className="text-xs">Location: India</p>
             </div>
           )}

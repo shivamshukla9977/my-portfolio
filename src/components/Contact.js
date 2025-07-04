@@ -1,7 +1,7 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {
-  faInstagram,
+  faGithub,
   faLinkedinIn,
 } from '@fortawesome/free-brands-svg-icons';
 
@@ -22,8 +22,8 @@ const Footer = () => {
             <a href="https://www.linkedin.com/in/shivam-shukla-78515a170/" target="_blank" rel="noopener noreferrer" className="hover:text-blue-600 transition" aria-label="LinkedIn">
                 <FontAwesomeIcon icon={faLinkedinIn} />
               </a>
-              <a href="https://www.instagram.com/yourprofile" target="_blank" rel="noopener noreferrer" className="hover:text-pink-500 transition" aria-label="Instagram">
-                <FontAwesomeIcon icon={faInstagram} />
+              <a href="https://github.com/shivamshukla9977" target="_blank" rel="noopener noreferrer" className="hover:text-pink-500 transition" aria-label="Instagram">
+                <FontAwesomeIcon icon={faGithub} />
               </a>
             </div>
           </div>
