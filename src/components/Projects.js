@@ -12,9 +12,7 @@ export default function Projects() {
                         Apps I've Worked On
                     </h1>
                     <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-                        facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-                        fuga dolore.
+                        This section showcases my hands-on experience with Ruby, Ruby on Rails, HTML, CSS, JavaScript, and Bootstrap. Below are a few selected projects that demonstrate my proficiency in these technologies.
                     </p>
                 </div>
                 <div className="flex flex-wrap -m-4">

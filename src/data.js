@@ -21,12 +21,12 @@ export const projects = [
         link: "https://inthought.com/invision/",
     },
     {
-        title: "Epic Todo App",
-        subtitle: "React Hooks",
+        title: "EventKrowd/HPMKT",
+        subtitle: "Ruby On Rails",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-        image: "./project-4.gif",
-        link: "https://pythonbootcamp.com",
+            "High Point Market’s official, showcasing highlights from its Spring 2025 “After Market” events—spotlighting top showrooms, keynote talks, and industry trends post-market. It serves as a hub for recaps, videos, guides, and resources aimed at industry professionals in the home furnishings sector",
+        image: "./highlights-column-2-image-1.png",
+        link: "https://www.highpointmarket.org/2025/Spring/AfterMarketHighlights",
     },
 ];
 
